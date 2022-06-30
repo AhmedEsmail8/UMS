@@ -1,0 +1,33 @@
+﻿  Generate moc_predefs.h
+  Add_Course.cpp
+  Admin.cpp
+  Admin_Profile.cpp
+  Course.cpp
+  Student.cpp
+  add_student.cpp
+  course_data.cpp
+  courses.cpp
+D:\projects\New folder - Copy\UMS_GUI\Add_Course.cpp(96,10): warning C4189: 'u': local variable is initialized but not referenced
+  coursestree.cpp
+  currentcourses.cpp
+  finishedcourses.cpp
+  login2.cpp
+  main.cpp
+  pendingrequests.cpp
+  profile.cpp
+  student_data.cpp
+  shell.c
+  sqlite3.c
+  moc_Add_Course.cpp
+  moc_Admin_Profile.cpp
+  moc_add_student.cpp
+  moc_course_data.cpp
+  moc_courses.cpp
+  moc_coursestree.cpp
+  moc_currentcourses.cpp
+  moc_finishedcourses.cpp
+  moc_login2.cpp
+  moc_pendingrequests.cpp
+  moc_profile.cpp
+  moc_student_data.cpp
+  UMS_GUI.vcxproj -> D:\projects\New folder - Copy\UMS_GUI\debug\UMS_GUI.exe
