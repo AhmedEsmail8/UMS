@@ -13,6 +13,5 @@
 
 
 <h1>Screenshots</h1>
-Login
-:-------------------------:
+<h2 align="center">Login</h2>
 <img src="https://raw.githubusercontent.com/AhmedEsmail8/UMS/main/screen%20shots/Login.png"/>
