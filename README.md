@@ -15,4 +15,4 @@
 <h1>Screenshots</h1>
 Login
 :-------------------------:
-![Login](https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Login.png?raw=true)
+<img src="https://raw.githubusercontent.com/AhmedEsmail8/UMS/main/screen%20shots/Login.png"/>
