@@ -16,12 +16,15 @@
 <details>
   <summary>Student</summary>
   <ol>
+    <li>
       <h2 align="center">Login</h2>
       <img src="https://raw.githubusercontent.com/AhmedEsmail8/UMS/main/screen%20shots/Login.png"/>
-
+    </li>
+    <li>
       <h2 align="center">Student Home</h2>
       <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Student_Home.png?raw=true"/>
-  
+    </li>
+      
     <li>
       <h2 align="center">Student Home</h2>
       <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Student_Home.png?raw=true"/>
