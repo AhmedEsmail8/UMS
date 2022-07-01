@@ -15,7 +15,7 @@
 <h1>Screenshots</h1>
 <details>
   <summary>Student</summary>
-  <ul>
+  <li>
     <li>
       <h2 align="center">Login</h2>
       <img src="https://raw.githubusercontent.com/AhmedEsmail8/UMS/main/screen%20shots/Login.png"/>
@@ -40,7 +40,7 @@
    </ol>
     <h2 align="center">Register Course</h2>
     
-  </ul>
+  </li>
 </details>
 
 
