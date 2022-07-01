@@ -16,7 +16,7 @@
 <h2 align="center">Login</h2>
 <img src="https://raw.githubusercontent.com/AhmedEsmail8/UMS/main/screen%20shots/Login.png"/>
 <details>
-  <summary>Student</summary>
+  <summary><h3>Student</h3></summary>
   <ul>
     <ul>
       <h2 align="center">Student Home</h2>
