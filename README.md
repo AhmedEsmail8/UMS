@@ -15,15 +15,31 @@
 <h1>Screenshots</h1>
 <details>
   <summary>Student</summary>
-    <ol>
+    <li>
       <h2 align="center">Login</h2>
       <img src="https://raw.githubusercontent.com/AhmedEsmail8/UMS/main/screen%20shots/Login.png"/>
-    </ol>
+    </li>
 
-    <ol>
+    <li>
       <h2 align="center">Student Home</h2>
       <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Student_Home.png?raw=true"/>
+    </li>
+  
+    <li>
+      <h2 align="center">Student Home</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Student_Home.png?raw=true"/>
+    </li>
+    
+    <ol>
+      <h2 align="center">Current Courses</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Current_Courses.png?raw=true">
     </ol>
+  
+    <ol>
+      <h2 align="center">Finished Courses</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Finished_Courses.png?raw=true"/>
+   </ol>
+    <h2 align="center">Register Course</h2>
     
     
 </details>
