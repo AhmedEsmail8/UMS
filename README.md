@@ -73,6 +73,6 @@
 
 
 <h1>Team Members</h1>
-<li>Ahmed Esmail</li>
-<li>Ebrahim Tarek</li>
+<li><a href="https://github.com/AhmedEsmail8">Ahmed Esmail</a></li>
+<li><a href="https://github.com/EbrahimTarek02">Ebrahim Tarek</a></li>
 
