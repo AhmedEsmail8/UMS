@@ -41,5 +41,31 @@
   </ul>
 </details>
 
+<details>
+  <summary><h3>Admin</h3></summary>
+  <ul>
+    <ul>
+      <h2>Admin Home</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Admin_Home.png?raw=true"/>
+    </ul>
+    <ul>
+      <h2>Add Student</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Add_Student.png?raw=true"/>
+    </ul>
+    <ul>
+      <h2>Course Data</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Course_Data.png?raw=true"/>
+    </ul>
+    <ul>
+      <h2>Pending Requests</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Pending_Requests.png?raw=true"/>
+    </ul>
+    <ul>
+      <h2>Student Data</h2>
+      <img src="https://github.com/AhmedEsmail8/UMS/blob/main/screen%20shots/Student_Data.png?raw=true"/>
+    </ul>
+  </ul>
+</details>
+
 
 
