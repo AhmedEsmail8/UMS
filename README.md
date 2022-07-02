@@ -76,13 +76,13 @@
 <h3>Student</h3>
 <ul>
   <ul>
-    <p>User Name: 20201700055 <br> Password: 123456789</ul>
+    <p>Username: 20201700055 <br> Password: 123456789</ul>
   </ul>
 </ul>
 <h3>Admin</h3>
 <ul>
   <ul>
-    <p>User Name: mohamed ashraf <br> Password: 123456789</ul>
+    <p>Username: mohamed ashraf <br> Password: 123456789</ul>
   </ul>
 </ul>
 
