@@ -72,6 +72,14 @@
 </details>
 
 
+<h1>To login and test</h1>
+<h3>Student</h3>
+<ul>
+  <ul>
+    <p>User Name: 20201700055 <br> Password: 123456789</ul>
+  </ul>
+</ul>
+
 <h1>Team Members</h1>
 <li><a href="https://github.com/AhmedEsmail8">Ahmed Esmail</a></li>
 <li><a href="https://github.com/EbrahimTarek02">Ebrahim Tarek</a></li>
